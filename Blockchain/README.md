@@ -126,7 +126,7 @@ Minh họa quá trình đào
                              |
                              v
                   Ai tìm ra nonce đúng trước
-              thì thằng và nhận hoa hồng bằng BTC
+            thì thắng và nhận hoa hồng bằng coin đó
 ```
 => Quá trình đó được gọi là đào 
 
